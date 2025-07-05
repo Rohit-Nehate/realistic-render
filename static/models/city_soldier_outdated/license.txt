@@ -1,0 +1,11 @@
+Model Information:
+* title:	City Soldier (outdated)
+* source:	https://sketchfab.com/3d-models/city-soldier-outdated-636b5a7c7e0c400abda269ba382f3252
+* author:	buh (https://sketchfab.com/buh-late)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "City Soldier (outdated)" (https://sketchfab.com/3d-models/city-soldier-outdated-636b5a7c7e0c400abda269ba382f3252) by buh (https://sketchfab.com/buh-late) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
